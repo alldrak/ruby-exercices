@@ -15,6 +15,7 @@ puts "His teeth are usually #{teeth} depending on the coffee."
 
 # this line is tricky, try to get it exactly right
 puts "If I add #{age}, #{height}, #{weight} I get #{age + height + weight}."
+puts "toto"
 
 metric_height = height * 2.54
 metric_weight = weight * 0.453592
