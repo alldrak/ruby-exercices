@@ -1,0 +1,2 @@
+# ruby-exercices
+learning ruby
