@@ -10,4 +10,6 @@ file_again = $stdin.gets.chomp
 
 txt_again = open(file_again)
 
+puts "Here's an added line ++=====+++++++."
+
 print txt_again.read
